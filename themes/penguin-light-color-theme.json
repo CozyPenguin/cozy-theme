@@ -1,5 +1,6 @@
 {
-    "name": "Cozy Theme",
+    "$schema": "vscode://schemas/color-theme",
+    "name": "Penguin Theme",
     "type": "light",
     "semanticHighlighting": true,
     "colors": {

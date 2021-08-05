@@ -92,3 +92,8 @@ This change log contains all changes made to _Cozy Theme_
 ## 0.5.3
 
 - hotfix to correct image in readme
+
+## 0.6.0
+
+- change most colours
+- the theme is now based on a colour palette, making it easier to maintain and less messy
